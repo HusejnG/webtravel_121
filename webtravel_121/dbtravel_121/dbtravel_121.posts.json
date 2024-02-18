@@ -1,0 +1,57 @@
+[{
+  "_id": {
+    "$oid": "65cceebbf24663150b8e2ab2"
+  },
+  "title": "Sarajevo",
+  "description": "Sarajevo, ekstra ponuda",
+  "username": "Husejn",
+  "categories": [],
+  "comments": [
+    "Ostavio sam komentar",
+    "I jos jedan komentar",
+    "I od mene komentar"
+  ],
+  "createdAt": {
+    "$date": "2024-02-14T16:47:55.242Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-15T15:08:20.049Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65ce260da4cee8570abe918a"
+  },
+  "title": "Istanbul",
+  "description": "Putovanje u Istanbul. Cijena 350KM 10 dana",
+  "username": "Husejn",
+  "categories": [],
+  "comments": [],
+  "createdAt": {
+    "$date": "2024-02-15T14:56:13.932Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-15T14:56:13.932Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65ce2836a4cee8570abe91a3"
+  },
+  "title": "Zenica",
+  "description": "lijepa al puno smoga",
+  "username": "Husejn",
+  "categories": [],
+  "comments": [
+    "I od Huse jedan komentar"
+  ],
+  "createdAt": {
+    "$date": "2024-02-15T15:05:26.749Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-15T15:08:57.930Z"
+  },
+  "__v": 0
+}]
